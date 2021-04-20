@@ -259,7 +259,7 @@ h1,h2{
   
   @media only screen and (max-width:900px){
     .productsContainer{
-      height:170vh;
+      height: 190vh;
       margin: 5%
     }
     .p-container{
