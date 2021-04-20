@@ -261,6 +261,7 @@ h1,h2{
     .productsContainer{
       height: 200vh;
       margin: 5%;
+      margin-bottom: 100%;
     }
     .p-container{
       flex-direction:column;
