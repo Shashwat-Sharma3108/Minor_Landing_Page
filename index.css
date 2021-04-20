@@ -259,8 +259,8 @@ h1,h2{
   
   @media only screen and (max-width:900px){
     .productsContainer{
-      height: 190vh;
-      margin: 5%
+      height: 200vh;
+      margin: 5%;
     }
     .p-container{
       flex-direction:column;
