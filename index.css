@@ -256,6 +256,17 @@ h1,h2{
   h2.heading{
     text-align: center;
   }
+  .productsContainer{
+    position: relative;
+    transform: translateY(150px);
+    opacity: 0;
+    transition: all 1s ease;
+  }
+
+  .productsContainer.active{
+    transform: translateY(0px);
+    opacity: 1;
+  }
   
   @media only screen and (max-width:900px){
     .productsContainer{
